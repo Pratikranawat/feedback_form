@@ -55,4 +55,7 @@ if(faculty.isdigit()):
 #
 sem=input("semester:")
 
+print("_____________________________Feedback Please__________________________________________")
+
+
 #add feedback questions with input statement
