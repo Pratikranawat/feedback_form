@@ -55,7 +55,7 @@ if(faculty.isdigit()):
 #
 sem=input("semester:")
 
-print("_____________________________Feedback Please__________________________________________")
+print("______________________________Feedback Please____________________________________________")
 
 
 #add feedback questions with input statement
