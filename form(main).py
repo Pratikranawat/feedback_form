@@ -33,24 +33,25 @@ else :
 programme=input("programme:")
 if(programme.isdigit()):
     print("invalid input")
-    last_name=input("last name: ")
+    programme=input("programme:")
 #
 discipline=input("discipline:")
 if(discipline.isdigit()):
     print("invalid input")
-    last_name=input("last name: ")
+    discipline=input("discipline:")
 #
 course=input("course:")
 if(course.isdigit()):
     print("invalid input")
-    last_name=input("last name: ")
+    course=input("course:")
 #
 course_code=input("course code")
+
 #
 faculty=input("faculty name:")
 if(faculty.isdigit()):
     print("invalid input")
-    last_name=input("last name: ")
+    faculty=input("faculty name:")
 #
 sem=input("semester:")
 
